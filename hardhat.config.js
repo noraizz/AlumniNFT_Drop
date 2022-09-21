@@ -13,7 +13,7 @@ module.exports = {
   networks:{
     rinkeby:{
       url:"https://eth-rinkeby.alchemyapi.io/v2/BhVl0pC3URgP3s6MbzSL5DK5LMCGr24a",
-      accounts:["3c71d1d015f91cb1ce214b23309602e676b8b17aeb016c2f0c0ed40cf646ffac"]
+      accounts:[""]
     }
   },
    etherscan:{
