@@ -1,0 +1,5 @@
+running the deploy script npx hardhat run --network rinkeby scripts/deploy.js
+installing ether scan  npm install @nomiclabs/hardhat-etherscan   
+
+
+for verify depoloyment on test-ne npx hardhat verify --network rinkeby 0x6d9E65002Cf4f80FcD068fbB15aEb6e2f8D40188   
